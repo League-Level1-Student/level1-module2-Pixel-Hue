@@ -19,7 +19,7 @@ class TeaBag {
 
 	private String flavor;
 
-	TeaBag(String flavor) {
+	TeaBag(String flavor) { 
 		this.flavor = flavor;
 	}
 
